@@ -1,16 +1,16 @@
-### Hi there 👋
+<body>
 
-<!--
-**siviars/siviars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><font face="Consolas">
+@ My name is Raivis<br>
+@ Knowledge is endless and every day I supplement they. Java is my core, which is nurtured with knowledge. <br>
+@ Currently I working on “Flight planner” Spring project.
+</font></p>
 
-Here are some ideas to get you started:
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
